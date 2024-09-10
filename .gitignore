@@ -1,0 +1,17 @@
+*.asdb/
+log/
+Edfmap.ini
+*.wsp
+*.wsf
+*.log
+*.erf
+*.sth
+*.cmd
+compile/
+*.set
+compilation.order
+projlib.cfg
+library.cfg
+*.lib
+*.mgf
+synthesis.order

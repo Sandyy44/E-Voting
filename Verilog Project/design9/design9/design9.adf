@@ -1,0 +1,57 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=design9
+
+[Library]
+design9=.\design9.lib
+
+[$LibMap$]
+design9=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+
+[IMPLEMENTATION]
+UCF=
+
+[Groups]
+TestBench=1
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/bcd_counter.v=-1
+/ClockGen.v=-1
+/counter_to_decoder.v=-1
+/decoder_7seg.v=-1
+/DesignSimulation.awf=-1
+/decoder.bde=-1
+TestBench/ClockGen_TB.v=-1
+TestBench/ClockGen_TB_runtest.do=-1
+
+[Files.Data]
+.\src\bcd_counter.v=Verilog Source Code
+.\src\ClockGen.v=Verilog Source Code
+.\src\counter_to_decoder.v=Verilog Source Code
+.\src\decoder_7seg.v=Verilog Source Code
+.\src\DesignSimulation.awf=Waveform File
+.\src\decoder.bde=Block Diagram
+.\src\TestBench\ClockGen_TB.v=Verilog Test Bench
+.\src\TestBench\ClockGen_TB_runtest.do=Macro
+

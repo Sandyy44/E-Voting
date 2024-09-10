@@ -1,0 +1,23 @@
+SCHM0102
+HEADER
+{
+  VARIABLES
+  {
+    #LANGUAGE="VERILOG"
+    #MODULE="DesignSchematic"
+    AUTHOR="Unknown"
+    COMPANY="Unknown"
+    CREATIONDATE="8/21/2024"
+    TITLE="DesignSchematic"
+  }
+}
+PAGE ""
+{
+  PAGEHEADER 
+  {
+    PAGESIZE (2200,1700)
+  }
+  BODY
+  {
+  }
+}

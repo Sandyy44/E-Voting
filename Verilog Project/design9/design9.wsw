@@ -1,0 +1,9 @@
+[OPENDOC|Aldec.BDE.7|.\design9\src\DesignSchematic.bde|]
+TemplateId=0
+AddInfo=design9
+[OPENDOC|Aldec.BDE.7|.\design9\src\decoder.bde|]
+TemplateId=0
+ActiveDocument=1
+AddInfo=design9
+[OPENDOC|Aldec.WaveForm.7|.\design9\src\DesignSimulation.awf|]
+TemplateId=0
